@@ -1,0 +1,11 @@
+name: pavo
+version: 1.0.0
+
+authors:
+  - Nathan <43486313+hammerhai@users.noreply.github.com>
+
+crystal: 1.4.1
+
+license: GPL-3.0-only
+
+description: A textual algorithm that calculates the similarity of two strings.
