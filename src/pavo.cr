@@ -4,7 +4,7 @@ require "bit_array"
 module Pavo
   extend self
 
-  VERSION = "0.1.0"
+  VERSION = "1.0.0"
 
   class BlankStringException < Exception
   end
